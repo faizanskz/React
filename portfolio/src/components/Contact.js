@@ -6,6 +6,7 @@ const Contact = () => {
       name="contact"
       className="h-screen w-full flex items-center justify-center p-4 bg-[#0a192f]"
     >
+        /* this is the form*/
       <form
         method="POST"
         action="https://getform.io/f/pbmqxnqb"
